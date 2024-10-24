@@ -20,13 +20,3 @@ resultado = lad1 * lad2;
 
 console.log("El area es: " + resultado)
 
-
-//area del triamgulo
-let igual, base, altura;
-
-base = 5;
-altura = 10;
-
-igual = base * altura / 2;
-
-console.log("El area es: " + igual)
